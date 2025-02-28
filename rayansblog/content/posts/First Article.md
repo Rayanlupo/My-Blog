@@ -5,7 +5,7 @@ lastmod: 2025-02-28T21:38:41Z
 author: Rayan Guebre
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /img/first-post.jpg
 # images:
 #   - /img/cover.jpg
 categories:

@@ -1,7 +1,7 @@
 baseurl = "https://blog.rayane.tech/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "My Personal Blog"
+title = "Guebre Nadir Rayane"
 theme = "dream"
 
 # [services]
@@ -20,9 +20,9 @@ darkTheme = "forest"
 # backgroundImageDark = ""
 
 author = "Rayan"
-# description = "My personal blog"
-# avatar = "img/avatar.png"
-headerTitle = "Hugo Theme Dream"
+description = "My personal blog"
+avatar = "img/avatar.jpg"
+headerTitle = "Rayan's Personal Blog"
 # motto = ""
 
 # footerBottomText = ""
@@ -38,9 +38,9 @@ headerTitle = "Hugo Theme Dream"
 # waline = true
 # walineServer = ""
 
-# email = ""
+email = "contact@rayane.tech"
 
-siteStartYear = 2016
+siteStartYear = 2025
 
 # favicon = "favicon.ico"
 
