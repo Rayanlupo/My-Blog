@@ -1,0 +1,9 @@
+socials = [
+  { href = "https://github.com/Rayanlupo", target="_blank", icon = "logo-github", title = "GitHub" },
+  { href = "https://x.com/G_Rayan21", target="_blank", icon = "logo-x", title = "X" },
+  # { href = "https://facebook.com/g1eny0ung", target="_blank", icon = "logo-facebook", title = "Facebook" },
+   { href = "https://instagram.com/rayan_mp4", target="_blank", icon = "logo-instagram", title = "Instagram" },
+  #{ href = "https://www.linkedin.com/in/g1eny0ung", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
+  { href = "https://stackoverflow.com/users/529937/rayan", target="_blank", icon = "logo-stackoverflow", title = "stack overflow" },
+  # { href = "https://codepen.io/g1eny0ung", target="_blank", icon = "logo-codepen", title = "Codepen" },
+]
