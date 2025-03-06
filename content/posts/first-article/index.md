@@ -14,6 +14,6 @@ tags:
   - me
 
 # nolastmod: true
-draft: false
+draft: true
 ---
 Today is the day when i finally started my first blog. My goal is to share with you my toughts projects and achievements.
