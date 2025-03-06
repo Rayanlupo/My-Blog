@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "hugo-extended": "^0.145.0"
+    "hugo-extended": "^0.145.0",
+    "mongodb": "^6.14.2"
   }
 }

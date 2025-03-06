@@ -6,6 +6,21 @@
     <description>Recent content in Posts on Guebre Nadir Rayane</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 01 Mar 2025 11:27:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Eda Part Requester</title>
+      <link>http://localhost:1313/posts/easy-eda-part-requester/</link>
+      <pubDate>Sat, 01 Mar 2025 11:27:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/easy-eda-part-requester/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My first blog</title>
+      <link>http://localhost:1313/posts/first-article/</link>
+      <pubDate>Fri, 28 Feb 2025 21:38:41 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-article/</guid>
+      <description>&lt;p&gt;Today is the day when i finally started my first blog. My goal is to share with you my toughts projects and achievements.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
